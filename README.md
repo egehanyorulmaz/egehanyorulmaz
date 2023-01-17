@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **egehanyorulmaz@uchicago.edu**
 
-- ⚡ Fun fact **I love cooking**
+- ⚡ Fun fact **I started my career as data scientists, then changed it to data engineering**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
