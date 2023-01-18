@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP, Non-linear Models and Data Mining Principles**
 
-- 📝 I regularly write articles on [https://medium.com/@egehanyorulmaz](https://medium.com/@egehanyorulmaz)
+- 📝 I occassionally write articles on [https://medium.com/@egehanyorulmaz](https://medium.com/@egehanyorulmaz)
 
 - 📫 How to reach me **egehanyorulmaz@uchicago.edu**
 
