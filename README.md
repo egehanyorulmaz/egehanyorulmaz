@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **egehanyorulmaz@uchicago.edu**
 
-- ⚡ Fun fact **I started my career as data scientist, then I became a data engineer in COVID-19. Now, I study Data Science.**
+- ⚡ Fun fact **I started my career as data scientist, then I became a data engineer during COVID-19. Now, I study Data Science.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
