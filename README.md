@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egehan</h1>
-<h3 align="center">A passionate machine learning engineer who is capable of solving problems in the end-to-end machine learning cycle and data infrastuctures.</h3>
+<h3 align="center">A passionate machine learning engineer who enjoys solving problems in the end-to-end machine learning cycle and data infrastuctures.</h3>
 
 <p align="left"> <a href="https://twitter.com/EgehanYorulmaz" target="blank"><img src="https://img.shields.io/twitter/follow/egehanyorulmaz?logo=twitter&style=for-the-badge" alt="egehanyorulmaz" /></a> </p>
 
