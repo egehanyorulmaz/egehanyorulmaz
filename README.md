@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/EgehanYorulmaz" target="blank"><img src="https://img.shields.io/twitter/follow/egehanyorulmaz?logo=twitter&style=for-the-badge" alt="egehanyorulmaz" /></a> </p>
 
-- 🔭 I’m currently studying **M.S. in Data Science** in **University of Chicago**
+- 🔭 I've graduated from **M.S. in Data Science program** at **University of Chicago**
 
-- 🌱 I’m currently learning **NLP, Non-linear Models and Data Mining Principles**
+- 🌱 I’m currently working on various LLM projects.
 
 - 📝 I occassionally write articles on [https://medium.com/@egehanyorulmaz](https://medium.com/@egehanyorulmaz)
 
 - 📫 How to reach me **egehanyorulmaz@uchicago.edu**
 
-- ⚡ Fun fact **I started my career as data scientist, then I became a data engineer during COVID-19. Now, I study Data Science.**
+- ⚡ Fun fact **I started my career as a data scientist, then I became a data engineer during COVID-19. Now, I work as a ML Engineer.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
