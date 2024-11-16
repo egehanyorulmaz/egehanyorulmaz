@@ -6,14 +6,16 @@
 - 🔭 I've graduated from **M.S. in Data Science program** at **University of Chicago**
 
 - 🌱 I’m currently working on various LLM projects.
-
-- 📝 I write articles on [https://medium.com/@egehanyorulmaz](https://medium.com/@egehanyorulmaz)
-
+  
 - 📫 How to reach me **egehanyorulmaz@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Better Python Projects: How Ruff and Pydantic Make Code More Maintainable](https://medium.com/@egehanyorulmaz/a-step-towards-developing-maintainable-python-projects-with-ruff-and-pydantic-bba63f1006c4)
+- [Monitoring BigQuery Costs for Cost-Effective Pipelines](https://medium.com/dev-genius/bigquery-cost-monitoring-and-insights-for-cost-effective-pipelines-ca14f8715082)
+- [Developing flexible ETL pipelines between databases with Apache Airflow](https://medium.com/midas-engineering/developing-flexible-etl-pipelines-between-databases-with-apache-airflow-f8352329e651)
 <!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
