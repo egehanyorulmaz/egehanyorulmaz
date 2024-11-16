@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently working on various LLM projects.
 
-- 📝 I occassionally write articles on [https://medium.com/@egehanyorulmaz](https://medium.com/@egehanyorulmaz)
+- 📝 I write articles on [https://medium.com/@egehanyorulmaz](https://medium.com/@egehanyorulmaz)
 
-- 📫 How to reach me **egehanyorulmaz@uchicago.edu**
-
-- ⚡ Fun fact **I started my career as a data scientist, then I became a data engineer during COVID-19. Now, I work as a ML Engineer.**
+- 📫 How to reach me **egehanyorulmaz@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
